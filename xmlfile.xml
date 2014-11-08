@@ -1,0 +1,11 @@
+<!--I have XML file like this-->
+
+<?xml version="1.0" encoding="utf-8"?>
+  <tags>
+  <row Id="3" TagName="sms" Count="576" ExcerptPostId="13195" WikiPostId="13194" />
+  <row Id="4" TagName="handcent-sms" Count="19" ExcerptPostId="49294" WikiPostId="49293" />
+  <row Id="5" TagName="applications" Count="1096" ExcerptPostId="4202" WikiPostId="4201" />
+  <row Id="6" TagName="nexus-one" Count="110" ExcerptPostId="7424" WikiPostId="7423" />
+  <row Id="10" TagName="contacts" Count="633" ExcerptPostId="10986" WikiPostId="10985" />
+  </tags>
+  
